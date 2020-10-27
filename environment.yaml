@@ -1,0 +1,28 @@
+name: Test
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2020.10.14=0
+  - certifi=2020.6.20=py38_0
+  - libcxx=10.0.0=1
+  - libedit=3.1.20191231=h1de35cc_1
+  - libffi=3.2.1=h0a44026_1007
+  - ncurses=6.2=h0a44026_1
+  - openssl=1.1.1h=haf1e3a3_0
+  - pip=20.2.4=py38_0
+  - python=3.8.0=h359304d_2
+  - readline=7.0=h1de35cc_5
+  - setuptools=50.3.0=py38h0dc7051_1
+  - sqlite=3.33.0=hffcf06c_0
+  - tk=8.6.10=hb0a8c7a_0
+  - wheel=0.35.1=py_0
+  - xz=5.2.5=h1de35cc_0
+  - zlib=1.2.11=h1de35cc_3
+  - pip:
+    - joblib==0.17.0
+    - numpy==1.19.2
+    - scikit-learn==0.23.2
+    - scipy==1.5.3
+    - threadpoolctl==2.1.0
+prefix: /Users/andy/opt/anaconda3/envs/Test
+
