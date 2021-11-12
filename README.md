@@ -1,4 +1,4 @@
-# Unsupervised Grouped Axial Data Modeling via Hierarchical Bayesian Nonparametric Models with Watson Distributions
+# Code for the 'Unsupervised Grouped Axial Data Modeling via Hierarchical Bayesian Nonparametric Models with Watson Distributions'
 
 ## Requirements
 
