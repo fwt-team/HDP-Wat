@@ -1,4 +1,4 @@
-# Grouped Axial Data Modeling via Hierarchical Nonparametric Bayesian Models
+# Unsupervised Grouped Axial Data Modeling via Hierarchical Bayesian Nonparametric Models with Watson Distributions
 
 ## Requirements
 
@@ -45,5 +45,16 @@ or
 python train_nyu.py -name nyu -lp 1 -verbose 1 -k 20 -t 10 -tau 20 -gamma 0.01 -th 1e-7 -mth 0.01 -sm 1000 -m 10
 ```
 
+---
+### Reference
+If you use our code in your work, please cite our paper. 
 
+    @article{FAN2021,
+    title = "Unsupervised Grouped Axial Data Modeling via Hierarchical Bayesian Nonparametric Models with Watson Distributions",
+    author = "Wentao Fan and Lin Yang and Nizar Bouguila",
+    journal = "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    volume = "206",
+    pages = "106341",
+    year = "2021"
+    }
 
