@@ -53,8 +53,8 @@ If you use our code in your work, please cite our paper.
     title = "Unsupervised Grouped Axial Data Modeling via Hierarchical Bayesian Nonparametric Models with Watson Distributions",
     author = "Wentao Fan and Lin Yang and Nizar Bouguila",
     journal = "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-    volume = "206",
-    pages = "106341",
+    volume = "0",
+    pages = "1",
     year = "2021"
     }
 
